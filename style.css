@@ -11,3 +11,113 @@ body {
     height: 150px;
     background-image:url('');
 }
+
+.mole1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+.mole2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+.mole3 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+.mole4 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}.mole5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+.mole6 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+.mole7 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+.mole8 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+.badger {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('');
+}
+
+.mole1:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole2:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole3:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole4:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole5:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole6:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole7:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole8:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.badger:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+.mole1:active {
+    background-image:url('');
+}.mole2:active {
+    background-image:url('');
+}.mole3:active {
+    background-image:url('');
+}.mole4:active {
+    background-image:url('');
+}.mole5:active {
+    background-image:url('');
+}.mole6:active {
+    background-image:url('');
+}.mole7:active {
+    background-image:url('');
+}.mole8:active {
+    background-image:url('');
+}.badger:active {
+    background-image:url('');
+}
