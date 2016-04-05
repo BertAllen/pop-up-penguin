@@ -9,115 +9,115 @@ body {
 #title {
     width: 600px;
     height: 150px;
-    background-image:url('');
+    background-image:url('https://bcw.blob.core.windows.net/public/img/penguins/img/penguin_title.png');
 }
 
 .mole1 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 .mole2 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 .mole3 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 .mole4 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }.mole5 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 .mole6 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 .mole7 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 .mole8 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 .badger {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKwsrfwynQk5aMqZwMu2WdWsbCpq7l4Y--lfDUGUydD33taF-XOA');
 }
 
 .mole1:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole2:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole3:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole4:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole5:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole6:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole7:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole8:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .badger:hover {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzH0vpbPX6rpHT53mF-EUBog4u-Wu_sO8hd79rLTEJv7sea94qvw');
     cursor: pointer;
 }
 .mole1:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.mole2:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.mole3:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.mole4:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.mole5:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.mole6:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.mole7:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.mole8:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRab6-llS4P0rTtQ7-GIC9rMxaKn2QPgHqP2LR2r-I8386r5XFc');
 }.badger:active {
-    background-image:url('');
+    background-image:url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc26vyiS_XMavFwrkV0WX6jzIloK6stf_UYyRNHbdnixMVS-9H');
 }
